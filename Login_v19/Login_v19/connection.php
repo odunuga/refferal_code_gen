@@ -1,7 +1,7 @@
 <?php
 $servername = 'localhost';
-$username = 'root';
-$password = '';
+$username = 'allbjlsi_refferal';
+$password = 'oladayo15';
 $dbname = 'refferal_codes';
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
